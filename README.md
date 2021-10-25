@@ -7,8 +7,8 @@ The calculation process is done by giving points to each sequence and choosing t
 - Person with the okey tile gets extra 1 point
 
 Known bugs:
-1- Can't calculate 12 13 1 sequence.
-2- sometimes gives very long same color sequences.
+- Can't calculate 12 13 1 sequence.
+- sometimes gives very long same color sequences.
 
 
 
